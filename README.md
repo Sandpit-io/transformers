@@ -8,3 +8,4 @@ To get started, there are a few examples:
 - [Google Analytics](./google_analytics.js)
 - [Facebook Conversion](./facebook.js)
 - [Amplitude](./amplitude.js)
+- [Segment](./segment.js)
